@@ -14,3 +14,5 @@ contract TestToken is ERC20 {
         _burn(msg.sender, 100 * 10 ** 18);
     }
 }
+
+//demo

@@ -2,6 +2,12 @@
 ```shell
 npm install --force
 ```
+# Put your private key into hardhat.config.ts file
+
+```shell
+ accounts: [`private here`],
+```
+
 
 # Task 01 - Deploy a simple contract
 ```shell
